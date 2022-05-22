@@ -1,0 +1,2 @@
+FREETYPEINC = ${X11INC}/freetype2
+MANPREFIX = ${PREFIX}/man
